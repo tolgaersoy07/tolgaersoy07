@@ -3,6 +3,7 @@ I am a 2nd year student at Pamukkale University Computer Engineering Department.
 Recently, I have been doing research in the field of statistics and using these researches in my projects.
 
 ### Social Network
+[![Gmail](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=Gmail)](mailto:tolgaersoy701@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolga-ersoy-466201245)
 
 
