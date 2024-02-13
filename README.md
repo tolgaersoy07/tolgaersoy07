@@ -5,7 +5,6 @@ Recently, I have been doing research in the field of statistics and using these 
 ### Social Network
 Concant Me: tolgaersoy700@gmail.com
 
-[![Gmail](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=Gmail)](mailto:tolgaersoy700@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolga-ersoy-466201245)
 
 
