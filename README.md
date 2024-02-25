@@ -1,4 +1,4 @@
-### Hello Everyone 👋
+### Hello Everyone, I am Tolga 👋
 I am a 2nd year student at Pamukkale University Computer Engineering Department. I have been interested in software development for 3 years. I am proficient in C, HTML, Java, Matlab, and Python coding languages. Additionally, I possess advanced knowledge of Data Structures and Algorithms. I solve algorithm questions on platforms such as LeetCode and Codewars.
 
 ### Concant Me
