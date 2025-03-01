@@ -40,10 +40,11 @@ Linkedin:
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy&layout=compact&hide=html,css)](https://github.com/tolgaersoy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact)](https://github.com/tolgaersoy07)
 
 ---
----
+
+
 
 ### Projects
 
