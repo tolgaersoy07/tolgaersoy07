@@ -38,6 +38,13 @@ Linkedin:
 ---
 ---
 
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy&layout=compact&hide=html,css)](https://github.com/tolgaersoy)
+
+---
+---
+
 ### Projects
 
 #### 1. ESP32 Remote Control Project
