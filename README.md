@@ -35,8 +35,22 @@ Linkedin:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 </p>
 
+---
+---
+
+### Projects
+
+#### 1. ESP32 Remote Control Project
+This is a web application that allows control of devices connected to an ESP32 module. The project utilizes Python, Flask, DynamoDB, HTML, CSS, and JavaScript.
+
+#### 2. Market App
+A market application that allows users to scan product barcodes directly through the app for purchasing. Technologies used include Python, Flask, MySQL, JWT Token, HTML, CSS, and JavaScript.
+
+#### 3. Token Services
+A JWT Token validation service built on Python, designed to work modularly. Technologies used are Python, JWT Token, MySQL, and JavaScript.
 
 ---
+
 
 ### Data Structures And Algorithms
 
