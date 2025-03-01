@@ -1,19 +1,20 @@
 ### Hello Everyone, I am Tolga 👋
 
-I am a 3rd-year student at Pamukkale University, Computer Engineering Department, with a GPA of 3.24. I have been passionate about software development for several years and am currently focusing on becoming a Full Stack Developer. During my internship, I developed a web application using Python, Flask, DynamoDB, HTML, and CSS. Additionally, I worked on a project called **MarketApp**, where I utilized Python, Flask, MySQL, JWT Token, HTML, and CSS. Another project I created is **TokenServices**, where I developed a modular JWT token validation tool in Python.
+I am a 3rd year student at Pamukkale University Computer Engineering Department and my GPA is 3.24. I have been interested in software development for 4 years and I am currently developing myself as a Full Stack Developer.
 
-I am continuously improving my skills, solving algorithmic problems on platforms like LeetCode and Codewars, and working on exciting new projects.
+I have experience in technologies such as Javascript/Node.js, Python, Flask, MySQL, DynamoDB, JWT Token, React, HTML and CSS. I have continuously improved myself by working on various projects with these technologies.
 
-I am passionate about learning new technologies and building impactful applications.
+I constantly improve my problem-solving skills by solving algorithm problems on platforms such as LeetCode and Codewars.
 
 ---
 
 ### Contact Me
 
 Mail: [tolgaersoy700@gmail.com](mailto:tolgaersoy700@gmail.com)
-
+---
+Linkedin:
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolga-ersoy-466201245)
-
+---
 ---
 
 ### Coding Languages
@@ -24,7 +25,16 @@ Mail: [tolgaersoy700@gmail.com](mailto:tolgaersoy700@gmail.com)
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="dynamodb" width="40" height="40"/> </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/669/853/png-transparent-security-token-json-web-token-access-token-representational-state-transfer-others-miscellaneous-angle-rectangle-thumbnail.png" alt="jwt" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 </p>
+
 
 ---
 
