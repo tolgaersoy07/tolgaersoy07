@@ -41,6 +41,7 @@ Linkedin:
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact)](https://github.com/tolgaersoy07)
+<img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en" />
 
 ---
 
