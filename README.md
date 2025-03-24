@@ -13,7 +13,7 @@ I constantly improve my problem-solving skills by solving algorithm problems on 
 Mail: [tolgaersoy700@gmail.com](mailto:tolgaersoy700@gmail.com)
 
 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolga-ersoy-466201245)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolga-ersoy)
 
 ---
 
