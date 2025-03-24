@@ -1,4 +1,4 @@
-### Hello Everyone, I am Tolga 👋
+## Hello Everyone, I am Tolga 👋
 
 I am a 3rd year student at Pamukkale University Computer Engineering Department and my GPA is 3.24. I have been interested in software development for 4 years and I am currently developing myself as a Full Stack Developer.
 
@@ -8,7 +8,7 @@ I constantly improve my problem-solving skills by solving algorithm problems on 
 
 ---
 
-### Contact Me
+# Contact Me
 
 Mail: [tolgaersoy700@gmail.com](mailto:tolgaersoy700@gmail.com)
 
@@ -17,7 +17,7 @@ Linkedin:
 
 ---
 
-### Coding Languages
+# Coding Languages
 
 <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@ Linkedin:
 
 
 
-### Projects
+# Projects
 
 #### 1. ESP32 Remote Control Project
 This is a web application that allows control of devices connected to an ESP32 module. The project utilizes Python, Flask, DynamoDB, HTML, CSS, and JavaScript.
@@ -66,7 +66,7 @@ It presents the menu of a cafe online. It is in static form using HTML and Javas
 
 ---
 
-### Data Structures And Algorithms
+# Data Structures And Algorithms
 
 
 
