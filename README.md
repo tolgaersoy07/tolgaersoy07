@@ -11,10 +11,10 @@ I constantly improve my problem-solving skills by solving algorithm problems on 
 ### Contact Me
 
 Mail: [tolgaersoy700@gmail.com](mailto:tolgaersoy700@gmail.com)
----
+
 Linkedin:
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolga-ersoy-466201245)
----
+
 ---
 
 ### Coding Languages
@@ -35,7 +35,7 @@ Linkedin:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 </p>
 
----
+
 ---
 
 ### Most Used Languages
@@ -57,16 +57,19 @@ A market application that allows users to scan product barcodes directly through
 #### 3. Token Services
 A JWT Token validation service built on Python, designed to work modularly. Technologies used are Python, JWT Token, MySQL, and JavaScript.
 
+#### 4. Paprotka Cafe
+It presents the menu of a cafe online. It is in static form using HTML and Javascript.
+
 ---
 
 
 ### Data Structures And Algorithms
 
-[![CodeWars](https://img.shields.io/badge/-codewars-black?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tolgaersoy)
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=tolgaersoy&top_languages=true)
 
-[![LeetCode](https://img.shields.io/badge/-leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/tolgaersoy/)
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tolgaersoy?theme=dark)
 
