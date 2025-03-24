@@ -37,11 +37,13 @@ Linkedin:
 
 
 ---
+# About My GitHub Account
 
-### Most Used Languages
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact" style="display: inline-block;" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact)](https://github.com/tolgaersoy07)
-<img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en" />
 
 ---
 
