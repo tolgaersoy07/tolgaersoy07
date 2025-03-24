@@ -36,16 +36,7 @@ Linkedin:
 </p>
 
 
----
-# About My GitHub Account
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact" style="display: inline-block;" />
-</div>
-
-
----
 
 
 
@@ -63,8 +54,17 @@ A JWT Token validation service built on Python, designed to work modularly. Tech
 #### 4. Paprotka Cafe
 It presents the menu of a cafe online. It is in static form using HTML and Javascript.
 
----
 
+---
+# About My GitHub Account
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact" style="display: inline-block;" />
+</div>
+
+
+---
 
 ### Data Structures And Algorithms
 
