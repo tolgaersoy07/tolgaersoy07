@@ -73,7 +73,18 @@ It presents the menu of a cafe online. It is in static form using HTML and Javas
 
 ![Codewars](https://github.r2v.ch/codewars?user=tolgaersoy&top_languages=true)
 
+---
+🧠 Solved 693 algorithmic problems in C, 301 in Python, and 103 in Java
 
+🌍 Ranked within the top 1,200 out of over 600,000 global participants on the Codewars platform
+
+🚀 This achievement has significantly improved my skills in algorithmic thinking, and in writing clean and efficient code
+
+🔧 When it comes to backend development, I consistently build more optimized, faster, and scalable systems compared to many of my peers
+
+📈 My success rate and performance in backend-focused projects are notably high thanks to this strong algorithmic foundation
+
+---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tolgaersoy?theme=dark)
 
