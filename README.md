@@ -60,6 +60,7 @@ It presents the menu of a cafe online. It is in static form using HTML and Javas
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en" style="display: inline-block;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&layout=compact" style="display: inline-block;" />
  
 </div>
 
