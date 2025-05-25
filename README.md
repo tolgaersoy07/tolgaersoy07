@@ -59,8 +59,8 @@ It presents the menu of a cafe online. It is in static form using HTML and Javas
 # About My GitHub Account
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tolgaersoy07&show_icons=true&locale=en&theme=dark" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaersoy07&theme=dark&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tolga-ersoy&show_icons=true&locale=en&theme=dark" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolga-ersoy&theme=dark&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
